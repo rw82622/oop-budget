@@ -9,7 +9,6 @@ Please note that we are going to expound on this project later in the course whe
 * Reading/writing to CSV
 * Single responsibility classes / small methods
 * Having Python objects talk to one another
-* TDD / Unittests
 
 ### Release 0
 Think through the classes you'll need to write this app. This is an open-ended challenge, but some possibilities may include: budget, transaction, budget category, etc. 
