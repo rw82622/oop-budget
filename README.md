@@ -3,7 +3,6 @@
 ## Backstory
 Your instructor, Jon, has a tough time with managing his money. He's been told to create a budget in Excel, but the thought of using spreadsheets makes him very unhappy. He's tasked you with creating a terminal based budgeting application so that he can keep track of his expenses.
 
-Please note that we are going to expound on this project later in the course when we get to databases and Django.
 
 ### What skills does this solidify?
 * Reading/writing to CSV
@@ -25,7 +24,3 @@ Figure out what a user can do through the command line. How will they enter new 
 
 For the purposes of our challenge, do not have user authentication. Figure that a user is only going to have this budgeting program on their computer.
 
-### Release 2
-Code. _Red, Green, Refactor!_
-
-Now that you've written tests, you have a general idea of the direction you want to go.
